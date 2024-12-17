@@ -1,5 +1,5 @@
 # Bit-Education
-BIT 비트교육센터
+[BIT 비트교육센터](https://www.bitacademy.com/?ckattempt=1)
 
 ### 241216(월)
 - [Streamlit을 활용한 계산기](https://jeonju-2-test2.streamlit.app/)
