@@ -4,6 +4,8 @@
 # 참고
 [랭체인LangChain 노트](https://wikidocs.net/book/14314)
 
+#
+
 ### 241216(월)
 - [Streamlit을 활용한 계산기](https://jeonju-2-test2.streamlit.app/)
 
