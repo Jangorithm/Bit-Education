@@ -12,3 +12,6 @@
 
 ### 241227(화)
 - [Langchain Text Splitter](https://github.com/Jangorithm/Bit-Education/tree/main/Langchain%20Text%20Splitter)
+
+### 241230(월(
+- [Split Code](https://github.com/Jangorithm/Bit-Education/tree/main/Split%20code)
