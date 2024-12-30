@@ -1,6 +1,9 @@
 # Bit-Education
 [BIT 비트교육센터](https://www.bitacademy.com/?ckattempt=1)
 
+# 참고
+[랭체인LangChain 노트](https://wikidocs.net/book/14314)
+
 ### 241216(월)
 - [Streamlit을 활용한 계산기](https://jeonju-2-test2.streamlit.app/)
 
@@ -13,5 +16,5 @@
 ### 241227(화)
 - [Langchain Text Splitter](https://github.com/Jangorithm/Bit-Education/tree/main/Langchain%20Text%20Splitter)
 
-### 241230(월(
+### 241230(월)
 - [Split Code](https://github.com/Jangorithm/Bit-Education/tree/main/Split%20code)
