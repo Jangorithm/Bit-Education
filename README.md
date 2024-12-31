@@ -24,4 +24,4 @@
 - [Split Code](https://github.com/Jangorithm/Bit-Education/tree/main/Split%20code)
 
 ### 241231(화)
-- [Markdown&HTML HeaderTextSplitter](https://github.com/Jangorithm/Bit-Education/tree/main/MarkdownHeaderTextSplitter)
+- [Markdown&HTML HeaderTextSplitter](https://github.com/Jangorithm/Bit-Education/tree/main/Markdown%26HTML%20HeaderTextSplitter)
