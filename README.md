@@ -25,3 +25,6 @@
 
 ### 241231(화)
 - [Markdown&HTML HeaderTextSplitter](https://github.com/Jangorithm/Bit-Education/tree/main/Markdown%26HTML%20HeaderTextSplitter)
+
+### 250102(목)
+- [Document Loader](https://github.com/Jangorithm/Bit-Education/tree/main/Document%20Loader)
