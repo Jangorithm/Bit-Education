@@ -30,3 +30,6 @@
 
 ### 250102(목)
 - [Document Loader](https://github.com/Jangorithm/Bit-Education/tree/main/Document%20Loader)
+
+### 250103(금) 
+- [PDF 로드 및 평가 (GPT4)](https://github.com/Jangorithm/Bit-Education/tree/main/Document%20Loader)
