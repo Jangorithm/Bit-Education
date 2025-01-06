@@ -1,7 +1,5 @@
-# Bit-Education
-[BIT 비트교육센터](https://www.bitacademy.com/?ckattempt=1)
+# 랭체인LangChain 노트
 
-# 참고
 [랭체인LangChain 노트](https://wikidocs.net/book/14314)
 
 #
