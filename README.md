@@ -33,4 +33,4 @@
 - [PDF 로드 및 평가 (GPT4)](https://github.com/Jangorithm/Bit-Education/tree/main/PDF%20%EB%A1%9C%EB%93%9C%20%EB%B0%8F%20%ED%8F%89%EA%B0%80%20(GPT4))
 
 ### 250109(목)
--
+- [SmallAgent](https://github.com/Jangorithm/LangChain/tree/main/SmallAgent)
