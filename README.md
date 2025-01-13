@@ -34,3 +34,6 @@
 
 ### 250109(목)
 - [SmallAgent](https://github.com/Jangorithm/LangChain/tree/main/SmallAgent)
+
+### 250113(월)
+- [FewShotPromptTeamplate](https://github.com/Jangorithm/LangChain/tree/main/FewShotTemplate)
