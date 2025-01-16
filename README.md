@@ -41,4 +41,4 @@
 ## 출력 파서(Output Parser)
 
 ### 250116(목)
-- [CommaSeparatedListOutputParser]()
+- [CommaSeparatedListOutputParser](https://github.com/Jangorithm/LangChain/tree/main/CommaSeparatedListOutputParser)
