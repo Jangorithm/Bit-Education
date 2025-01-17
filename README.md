@@ -47,5 +47,5 @@
 - [PandasDataFrameOutputParser](https://github.com/Jangorithm/LangChain/tree/main/PandasDataFrameOutputParser)
 
 ### 250117(금)
-- [DataTimeOutputParser]()
-- [EnumOutputParser]()
+- [DataTimeOutputParser](https://github.com/Jangorithm/LangChain/tree/main/DataTimeOutputParser)
+- [EnumOutputParser](https://github.com/Jangorithm/LangChain/tree/main/EnumOutputParser)
