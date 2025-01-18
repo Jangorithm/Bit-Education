@@ -50,3 +50,4 @@
 - [DataTimeOutputParser](https://github.com/Jangorithm/LangChain/tree/main/DataTimeOutputParser)
 - [EnumOutputParser](https://github.com/Jangorithm/LangChain/tree/main/EnumOutputParser)
 - [OutputFixingParser](https://github.com/Jangorithm/LangChain/tree/main/OutputFixingParser)
+- [OpenAIEmbeddings]()
