@@ -51,3 +51,10 @@
 - [EnumOutputParser](https://github.com/Jangorithm/LangChain/tree/main/EnumOutputParser)
 - [OutputFixingParser](https://github.com/Jangorithm/LangChain/tree/main/OutputFixingParser)
 - [OpenAIEmbeddings](https://github.com/Jangorithm/LangChain/tree/main/OpenAIEmbeddings)
+
+### 250120(월)
+- [CacheBackedEmbeddings](https://github.com/Jangorithm/LangChain/tree/main/CacheBackedEmbeddings)
+- [HuggingFaceEmbeddings](https://github.com/Jangorithm/LangChain/tree/main/HuggingFaceEmbeddings)
+- [UpstageEmbeddings](https://github.com/Jangorithm/LangChain/tree/main/UpstageEmbeddings)
+- [OllamaEmbeddings](https://github.com/Jangorithm/LangChain/tree/main/OllamaEmbeddings)
+- [논문을 PDF로 업로드한 후, 해당 PDF를 텍스트 단위로 분할(Splitting)하고, 각 텍스트 조각에 대한 임베딩을 생성한 뒤, 사용자의 질문(Query)과 비교하여 유사도 기반으로 답변을 찾는 과정]()
