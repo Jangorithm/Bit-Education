@@ -1,0 +1,27 @@
+[
+    {
+        "질문": "\n                    2. What are the main differences between the pre-training data and the SFT data in the data distribution visualization of Figure 1?\n                \n                    ",
+        "답변": "MAP\n2.1.3. F INDING DIFFERENCE SET\nThe difference set is identified based on the density estimates\nfrom the SFT dataset. Specifically, if a point di in the\npre-training dataset has a low-density estimate within the\nSFT dataset, we classify this point as absent or sparsely\npopulated in the SFT data. Such points contribute to the\nobserved distributional differences between the two datasets,\nand we define them formally as:\nDdiff = {di|di ∈ Dpretrain, ˆfSFT(xi, yi) < τ} (7)",
+        "유사도 점수": 0.8972198357150971
+    },
+    {
+        "질문": "\n                    2. What are the main differences between the pre-training data and the SFT data in the data distribution visualization of Figure 1?\n                \n                    ",
+        "답변": "2.1. Difference Set Generation\nIn this section, we define the process of difference set gener-\nation, isolating data points from the pre-training corpora that\ndiffer from those in the SFT dataset. The goal is to identify\nregions in the pre-training data distribution that are absent\nfrom or sparsely populated in the supervised fine-tuning\n(SFT) data. This can be formalized as follows:\nDdiff = {di|di ∈ Dpretrain, ∆(di, DSFT) < τ} (1)\nWhere Dpretrain, DSFT, Ddiff represent the pre-training",
+        "유사도 점수": 0.8953160685266082
+    },
+    {
+        "질문": "\n                    2. What are the main differences between the pre-training data and the SFT data in the data distribution visualization of Figure 1?\n                \n                    ",
+        "답변": "Where (x, y) and (x′, y′) are two two-dimensional data\npoints, hx, hy and σ are bandwidth parameters that con-\ntrol the smoothness in the x direction, y direction and kernel\nrespectively. The KDE visualization highlights distribution\ndifferences, identifying regions of divergence between the\npretraining and SFT datasets.\n2",
+        "유사도 점수": 0.8897898469253751
+    },
+    {
+        "질문": "\n                    2. What are the main differences between the pre-training data and the SFT data in the data distribution visualization of Figure 1?\n                \n                    ",
+        "답변": "ZSFT = {(xi, yi) | di ∈ DSFT} (4)\n2.1.2. D ENSITY ESTIMATION\nTo compare data distributions between the pre-training and\nSFT datasets, we use Kernel Density Estimation (KDE) to\nvisualize the density of points for each dataset. The KDE\nfunction ˆf(x, y) estimates the density at any location (x, y)\nbased on neighboring points:\nˆf(x, y) = 1\nnhxhy\nnX\ni=1\nK\n\u0012x − xi\nhx\n, y − yi\nhy\n\u0013\n(5)\nK(·, ·) is the kernel function, typically Gaussian:\nK ((x, y), (x′, y′)) = exp\n\u0010\n− (x−x′)2 +( y−y′)2\n2σ2\n\u0011\n(6)",
+        "유사도 점수": 0.8849108179678126
+    },
+    {
+        "질문": "\n                    2. What are the main differences between the pre-training data and the SFT data in the data distribution visualization of Figure 1?\n                \n                    ",
+        "답변": "ˆfSFT(xi, yi) represents the density estimate of the data point\ndi from the pretrain corpus within the SFT dataset.\nˆfSFT(xi, yi) = 1\nnhxhy\nnX\nj=1\nK\n\u0012xi − xj\nhx\n, yi − yj\nhy\n\u0013\n(8)\nWhere (xi, yi) ∈ Zpretrain, (xj, yj) ∈ ZSFT. n is the total\nnumber of points in the SFT dataset.\n2.2. Data Transformation of Difference Set\nThe data transformation phase is designed to convert raw\ntext from pre-training data within the difference set into\ninstruction-pair data formatted for SFT. First, we develop a",
+        "유사도 점수": 0.8835271250018857
+    }
+]

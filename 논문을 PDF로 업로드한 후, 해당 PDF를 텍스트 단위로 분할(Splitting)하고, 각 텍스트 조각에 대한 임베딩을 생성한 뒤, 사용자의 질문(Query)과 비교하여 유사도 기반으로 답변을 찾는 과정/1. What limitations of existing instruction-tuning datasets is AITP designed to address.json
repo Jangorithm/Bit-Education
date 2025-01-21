@@ -1,0 +1,27 @@
+[
+    {
+        "질문": "\n                    1. AITP was designed to address which limitations of existing instruction-tuning datasets?\n                    ",
+        "답변": "showing how AITP guides instruction tuning toward more\neffective and generalizable fine-tuned models.\nOur contributions include: 1) Demonstrating the distribu-\ntional gaps between instruction-tuning datasets and pre-\ntraining corpora through visualization. 2) Proposing the\nAITP method to adaptively optimize instruction-tuning\ndatasets by leveraging pre-training corpora as a reference.\n3) Validating the effectiveness of AITP with extensive ex-\nperiments and ablation studies.\n2. Methods",
+        "유사도 점수": 0.8882991236133373
+    },
+    {
+        "질문": "\n                    1. AITP was designed to address which limitations of existing instruction-tuning datasets?\n                    ",
+        "답변": "often narrowly focused and misaligned with the\nbroad distributions captured during pre-training,\nlimiting LLM generalization and effective use\nof pre-trained knowledge. We propose Aligning\nInstruction Tuning with Pre-training (AITP), a\nmethod that bridges this gap by identifying cov-\nerage shortfalls in instruction-tuning datasets and\nrewriting underrepresented pre-training data into\nhigh-quality instruction-response pairs. This ap-\nproach enriches dataset diversity while preserving",
+        "유사도 점수": 0.8861875772451284
+    },
+    {
+        "질문": "\n                    1. AITP was designed to address which limitations of existing instruction-tuning datasets?\n                    ",
+        "답변": "fail to leverage this alignment, creating a fundamental gap\nin optimizing dataset coverage and distribution. Addressing\nthis challenge requires aligning instruction-tuning datasets\nwith pre-training distributions to fully exploit the knowledge\nembedded in LLMs.\nIn this paper, we propose Aligning Instruction Tuning with\nPre-training (AITP), a method that systematically bridges\nthis gap. Rather than generating instruction-response pairs\nfrom scratch, AITP identifies gaps in existing datasets by",
+        "유사도 점수": 0.8828294702431712
+    },
+    {
+        "질문": "\n                    1. AITP was designed to address which limitations of existing instruction-tuning datasets?\n                    ",
+        "답변": "pairs, and (3) integrating these pairs into the original dataset\nfor fine-tuning.\nFigure 1 visualizes the significant distributional differences\nbetween instruction-tuning datasets and the pre-training cor-\npus, underscoring the need for such alignment. Through\nexperiments on three open-source LLMs across eight bench-\nmarks, we demonstrate that AITP consistently improves\nmodel performance. Detailed ablation studies highlight\nthe effectiveness of adaptive data selection and integration,",
+        "유사도 점수": 0.8749170926503593
+    },
+    {
+        "질문": "\n                    1. AITP was designed to address which limitations of existing instruction-tuning datasets?\n                    ",
+        "답변": "comparing their distribution to that of the pre-training cor-\npus. Underrepresented data is then rewritten into high-\nquality instruction-response pairs, enhancing dataset cover-\nage and alignment. As shown in Figure 2, AITP involves\nthree stages: (1) generating a difference set based on density\ncomparisons, (2) rewriting raw text into instruction-response\n1arXiv:2501.09368v2  [cs.AI]  17 Jan 2025",
+        "유사도 점수": 0.8720896747701553
+    }
+]
